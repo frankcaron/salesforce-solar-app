@@ -1,0 +1,22 @@
+{
+  "name": "salesforce-solar-app",
+  "version": "1.0.0",
+  "description": "A simple SalesForce-connected Node app to be all cool n' shit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frankcaron/salesforce-solar-app.git"
+  },
+  "author": "frank-caron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frankcaron/salesforce-solar-app/issues"
+  },
+  "homepage": "https://github.com/frankcaron/salesforce-solar-app#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
